@@ -6,7 +6,7 @@ void input(int *a)
 }
 void addone(int *x,int *y)
 {
-        *y=*x+1;
+        y=x+1;
 }
 void result(int m)
 {
